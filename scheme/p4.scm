@@ -1,2 +1,0 @@
-(define (palin x)
-  
